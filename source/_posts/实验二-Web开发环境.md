@@ -14,6 +14,7 @@ categories:
 
 本实验主要完成 Web 软件开发环境的安装与配置，掌握 Node.js、npm、Git 和 Hexo CLI 等工具的基本作用，并成功创建一个本地 Hexo 网站项目。
 
+<!-- more -->
 ## 二、核心工具理解
 
 ### 1. Node.js
