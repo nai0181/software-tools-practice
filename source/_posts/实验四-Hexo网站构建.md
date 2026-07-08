@@ -1,9 +1,9 @@
 ---
-title: {{ title }}
-date: {{ date }}
-tags:
+title: 实验四 Hexo网站构建
 categories:
   - 软件开发工具实践
+date: 2026-07-08 15:39:38
+tags:
 ---
 
 ## 一、实验目标
