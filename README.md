@@ -48,3 +48,9 @@
 ## 项目说明
 
 本项目后续将继续补充课程实验内容，包括 VS Code 与 Markdown、Hexo 网站构建、Linux 环境配置、SSH 远程管理和软件部署等内容。
+
+## 在线访问
+
+本项目已通过 GitHub Pages 部署，可通过以下地址访问：
+
+https://nai0181.github.io/software-tools-practice/
